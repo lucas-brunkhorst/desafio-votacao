@@ -1,4 +1,4 @@
-package com.example.desafio_votacao.sicredi;
+package com.example.desafiovotacao.sicredi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

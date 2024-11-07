@@ -1,4 +1,4 @@
-package com.example.desafio_votacao.sicredi;
+package com.example.desafiovotacao.sicredi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
